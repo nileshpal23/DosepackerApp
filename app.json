@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Scanner",
-    "slug": "Scanner",
+    "slug": "dosepacker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79f3ecf6-fe2b-4bd1-aafe-040b4886bf5f"
+      }
+    },
+    "owner": "nileshpal23"
   }
 }
